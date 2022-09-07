@@ -1,5 +1,5 @@
 <?php
-namespace JunLi;
+namespace Junli\Test;
 
 class Test
 {
