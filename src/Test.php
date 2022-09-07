@@ -5,7 +5,7 @@ class Test
 {
     public static function write()
     {
-        echo 'this is composer lib write';
-        return 'this is composer lib write';
+        echo "this is composer lib write\r\n";
+        return "this is composer lib write\r\n";
     }
 }
