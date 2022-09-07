@@ -1,0 +1,15 @@
+{
+    "name": "junli/test",
+    "description": "测试开发composer包",
+    "autoload": {
+        "psr-4": {
+            "Junli\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "junli"
+        }
+    ],
+    "require": {}
+}
